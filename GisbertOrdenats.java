@@ -1,4 +1,4 @@
-/*Donats dos números enters, dir si estan ordenats creixentment*/
+/*Donats dos números enters, dir si estan ordenats */
 import java.util.Scanner;
 public class GisbertOrdenats {
  public static void main(String[] args) {
