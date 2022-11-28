@@ -1,4 +1,4 @@
-/*Donats dos números enters, dir si estan ordenats */
+/*Donats dos números enters, dir si estan ordenats*/
 import java.util.Scanner;
 public class GisbertOrdenats {
  public static void main(String[] args) {
@@ -17,3 +17,4 @@ public class GisbertOrdenats {
  }
 }
  
+https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/
